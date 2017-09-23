@@ -1,2 +1,2 @@
 # demo
-demo scala
+Simple scala application.
